@@ -20,7 +20,7 @@ Troubleshooting
 ---------------
 If you get no results from RuTracker when you search something, please:
   * Check that at least one mirror from the list of [official RuTracker mirrors](http://rutracker.wiki/%D0%A7%D1%82%D0%BE_%D0%B4%D0%B5%D0%BB%D0%B0%D1%82%D1%8C,_%D0%B5%D1%81%D0%BB%D0%B8_%D0%B2%D0%B0%D0%BC_%D0%B7%D0%B0%D0%B1%D0%BB%D0%BE%D0%BA%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD_%D0%B4%D0%BE%D1%81%D1%82%D1%83%D0%BF_%D0%BD%D0%B0_rutracker.org#.D0.97.D0.B5.D1.80.D0.BA.D0.B0.D0.BB.D0.B0_rutracker.org) is working.
-  * Check that you are not captcha-blocked (try to manually connect to the website: after logging in once, the captcha will disappear and the script will work).
+  * Check that you are not captcha-blocked (try to manually connect to the website: after logging in once, the captcha will disappear and the script will work). Relogging might be necessary in some cases.
   * Check that the script credentials are correct (try to manually connect to the website by copy/pasting username and password from `rutracker.py`).
   * If it still does not work, follow the steps for reporting a bug below.
 
